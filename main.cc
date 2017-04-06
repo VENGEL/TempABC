@@ -76,6 +76,9 @@
 
 CREATE_LOGGERPTR_GLOBAL(logger_, "SDLMain")
 // add comment: xxxxxxxxxxxxxxxxx
+// New comment to work ....
+// I'm a new function
+// Modify...
 namespace {
 
 const std::string kBrowser = "/usr/bin/chromium-browser";
