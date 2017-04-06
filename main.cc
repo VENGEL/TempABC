@@ -75,7 +75,7 @@
 #endif
 
 CREATE_LOGGERPTR_GLOBAL(logger_, "SDLMain")
-
+// add comment: xxxxxxxxxxxxxxxxx
 namespace {
 
 const std::string kBrowser = "/usr/bin/chromium-browser";
